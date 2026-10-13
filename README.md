@@ -19,3 +19,10 @@
 - [x] HTTPS 凭证走 `gh auth git-credential`
 
 验证通过在 github.com 上能看到这个文件为准。
+
+---
+
+## SSH 推送测试
+
+本次提交通过 SSH (git@github.com) 推送，端口 22。
+时间: 2026-10-14 00:04:45
